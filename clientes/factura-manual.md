@@ -1,6 +1,6 @@
 # Factura manual
 
-<figure><img src=".gitbook/assets/image (79).png" alt="Opción para crear una factura manual desde el perfil del cliente"><figcaption><p>Creación manual de una factura</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (79).png" alt="Opción para crear una factura manual desde el perfil del cliente"><figcaption><p>Creación manual de una factura</p></figcaption></figure>
 
 Genera una factura manual para el mes actual cuando se eliminó una factura del cliente.
 
@@ -14,7 +14,7 @@ Puedes usar esta opción si la factura eliminada estaba **Pendiente**, **Abonada
 4. Selecciona la opción para crear la factura manual.
 5. Confirma la creación.
 
-<figure><img src=".gitbook/assets/image (80).png" alt="Ventana para confirmar la creación de una factura manual"><figcaption><p>Confirma la creación de la factura</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (80).png" alt="Ventana para confirmar la creación de una factura manual"><figcaption><p>Confirma la creación de la factura</p></figcaption></figure>
 
 El sistema asigna estas fechas:
 
@@ -27,6 +27,6 @@ Revisa el historial de facturas antes de confirmar. Evita crear una factura dupl
 
 ### Ver la factura generada
 
-<figure><img src=".gitbook/assets/image (81).png" alt="Factura manual creada en el historial de facturas del cliente"><figcaption><p>Factura manual en el historial del cliente</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (81).png" alt="Factura manual creada en el historial de facturas del cliente"><figcaption><p>Factura manual en el historial del cliente</p></figcaption></figure>
 
 Después de generarla, consulta la factura en el historial del perfil del cliente.

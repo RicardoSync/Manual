@@ -22,8 +22,12 @@
 * [Perfil de cliente](clientes/perfil-de-cliente.md)
 * [Suspensión de cliente](clientes/suspension-de-cliente.md)
 * [Activación de cliente](clientes/activacion-de-cliente.md)
+* [Promesa de pago](clientes/promesa-de-pago.md)
+* [Factura manual](clientes/factura-manual.md)
+* [Cortes programados](clientes/cortes-programados.md)
+* [Aviso personal](clientes/aviso-personal.md)
+* [Acciones masivas](clientes/acciones-masivas.md)
 
 ***
 
-* [Promesa de pago](promesa-de-pago.md)
-* [Factura manual](factura-manual.md)
+* [Clientes morosos](clientes-morosos.md)
