@@ -15,3 +15,6 @@
 ## Clientes
 
 * [Lista de clientes](clientes/lista-de-clientes.md)
+* [Creación de cliente](clientes/creacion-de-cliente.md)
+* [Importar SimpleQueue](clientes/importar-simplequeue.md)
+* [Importar PPPoE](clientes/importar-pppoe.md)
