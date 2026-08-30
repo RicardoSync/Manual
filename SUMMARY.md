@@ -32,3 +32,9 @@
 
 * [Clientes morosos](clientes-morosos.md)
 * [Calendario](calendario.md)
+
+## Infraestructura
+
+***
+
+* [Comunidades](comunidades.md)
