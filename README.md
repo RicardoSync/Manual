@@ -1,57 +1,41 @@
-# Dashboard
+# Configuración de Empresa
 
-<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+El primer paso es ir a la sección de "Ajustes del Sistema > Ajustes de empresa" que esta al lado izquierdo en el menu.
 
-El Dashboard es la pantalla principal del sistema. Reúne la información financiera, operativa y de red para revisar el estado del negocio rápidamente.
+<figure><img src=".gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
-### Indicadores principales
+Dentro de esta ventana debemos definir nuestra información como emprendimiento o empresa WISP / ISP para el proceso de actualizacion de datos.
 
-<figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Las tarjetas superiores muestran un resumen del mes actual:
+Debemos completar los campos con los datos de nuestra empresa, como el nombre, correo electrónico, teléfono y dirección. Al finalizar, guardamos los cambios para que la información quede actualizada en el sistema.
 
-* **Ingresos del mes:** total cobrado. Selecciónelo para consultar los pagos.
-* **Clientes activos:** clientes con servicio activo y pagos al día.
-* **Clientes en adeudo:** clientes con pagos pendientes.
-* **Clientes suspendidos:** clientes cuyo servicio está suspendido.
+### Correo SMTP
 
-### Tráfico y operación
+<figure><img src=".gitbook/assets/Captura desde 2026-08-29 14-59-48.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+Esta configuración permite enviar automáticamente el corte de caja diario al correo del administrador. Ingresamos los datos SMTP proporcionados por el servicio de correo, como el servidor, puerto, usuario y contraseña. El sistema utiliza este correo únicamente para enviar estos reportes automáticos.
 
-La gráfica de tráfico muestra el uso de la red durante las últimas 24 horas. Filtre la información por **descarga** o **subida** y por cada router MikroTik.
+### API Banxico y Token Movil
 
-Las barras de progreso muestran estos indicadores:
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-* **Contratos pendientes, instalados y cancelados:** estado de las solicitudes de servicio.
-* **Cobranza efectiva:** porcentaje de clientes sin pagos vencidos.
+Esta sección reúne los datos bancarios y los tokens necesarios para validar pagos y usar la aplicación móvil.
 
-### Soporte y equipos
+En **Banco**, ingresamos el nombre de la institución donde recibimos los pagos de nuestros clientes. En **Número de cuenta / CLABE**, registramos los 16 o 18 dígitos correspondientes a la cuenta bancaria.
 
-<figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+El **Token CPM** es proporcionado por nuestro equipo. Permite validar las transferencias de clientes mediante Banxico para activar o suspender el servicio. Esta función se encuentra en desarrollo.
 
-Revise estos indicadores para identificar tareas pendientes y equipos que requieren atención:
+En **Token móvil**, generamos y copiamos un código de acceso. Este token funciona como una contraseña maestra para acceder desde la aplicación Android a las funciones de cobranza y soporte técnico. Debemos mantenerlo seguro y no compartirlo.
 
-* **Tickets abiertos:** reportes que todavía requieren solución.
-* **Tickets resueltos:** reportes solucionados durante la última semana.
-* **Routers activos:** equipos de red disponibles.
-* **Clientes cancelados:** total de clientes que dejaron el servicio.
-* **Estado API WhatsApp:** disponibilidad del servicio de mensajería automática.
+### Copias y restauracion
 
-### Historial y estado de red
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+Esta sección permite crear copias de seguridad de la información del sistema y restaurarlas cuando sea necesario. Antes de realizar una restauración, debemos verificar que el archivo corresponda a la copia correcta, ya que el proceso puede reemplazar los datos actuales.
 
-El **historial de ingresos** muestra la tendencia de cobros de los últimos seis meses. Úselo para identificar meses de mayor o menor ingreso.
+### Apps moviles / descargas
 
-<figure><img src=".gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-Las tarjetas de **nodos MikroTik** muestran el uso de CPU y el tiempo de actividad de cada equipo. Un nodo sin conexión se identifica en rojo.
-
-<figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
-
-Las **alertas del sistema** registran notificaciones, tareas programadas y errores de red.
-
-### Revisión diaria
-
-Abra el Dashboard al iniciar su jornada. En pocos minutos podrá revisar los cobros, los reportes pendientes y el estado de los equipos de red.
+Esta sección centraliza los enlaces de descarga de las aplicaciones móviles. Desde aquí podemos instalar la aplicación correspondiente según las tareas que realizará cada usuario, como cobranza o soporte técnico.
