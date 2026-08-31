@@ -1,16 +1,14 @@
 # Table of contents
 
-## Primeros Pasos
-
-* [Configuración de Empresa](README.md)
-* [Automatizaciones](primeros-pasos/automatizaciones.md)
-* [Configurar cortes](primeros-pasos/configurar-cortes.md)
-
-***
-
-* [Dashboard](<README (1).md>)
+* [Dashboard](README.md)
 * [Contratos](contratos.md)
 * [Términos y condiciones](terminos-y-condiciones.md)
+
+## Primeros Pasos
+
+* [Configuración de Empresa](<README (1).md>)
+* [Automatizaciones](primeros-pasos/automatizaciones.md)
+* [Configurar cortes](primeros-pasos/configurar-cortes.md)
 
 ## Clientes
 
@@ -47,3 +45,9 @@
 
 * [PPPoE Active](pppoe/pppoe-active.md)
 * [Pool de Ips](pppoe/pool-de-ips.md)
+
+## Servicios y Paquetes
+
+* [Paquetes estáticos (Simple Queue)](servicios-y-paquetes/paquetes-estaticos-simple-queue.md)
+* [Paquetes PPPoE (Profiles)](servicios-y-paquetes/paquetes-pppoe-profiles.md)
+* [Servicios Extra](servicios-y-paquetes/servicios-extra.md)
