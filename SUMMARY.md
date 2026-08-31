@@ -27,14 +27,23 @@
 * [Cortes programados](clientes/cortes-programados.md)
 * [Aviso personal](clientes/aviso-personal.md)
 * [Acciones masivas](clientes/acciones-masivas.md)
-
-***
-
-* [Clientes morosos](clientes-morosos.md)
-* [Calendario](calendario.md)
+* [Clientes morosos](clientes/clientes-morosos.md)
+* [Calendario](clientes/calendario.md)
 
 ## Infraestructura
 
-***
+* [Comunidades](infraestructura/comunidades.md)
+* [Antenas AP](infraestructura/antenas-ap.md)
+* [Mapa de Red](infraestructura/mapa-de-red.md)
 
-* [Comunidades](comunidades.md)
+## MikroTik
+
+* [Conectar API](mikrotik/conectar-api.md)
+* [Detalles de MikroTik](mikrotik/detalles-de-mikrotik.md)
+* [Monitor de Interfaces](mikrotik/monitor-de-interfaces.md)
+* [SpeedTest](mikrotik/speedtest.md)
+
+## PPPoE
+
+* [PPPoE Active](pppoe/pppoe-active.md)
+* [Pool de Ips](pppoe/pool-de-ips.md)
