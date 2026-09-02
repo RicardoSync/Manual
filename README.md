@@ -55,3 +55,17 @@ Las **alertas del sistema** registran notificaciones, tareas programadas y error
 ### Revisión diaria
 
 Abra el Dashboard al iniciar su jornada. En pocos minutos podrá revisar los cobros, los reportes pendientes y el estado de los equipos de red.
+
+### Personalizar Dashboard
+
+<figure><img src=".gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+
+Controle qué indicadores aparecen en su Dashboard. Esta configuración le permite priorizar la información más útil para su operación.
+
+<figure><img src=".gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+
+1. Seleccione **Ajustes** en la parte superior del Dashboard.
+2. Marque los indicadores que desea mostrar.
+3. Desmarque los indicadores que desea ocultar.
+
+Los cambios se reflejan en el Dashboard para adaptar la vista a sus necesidades.

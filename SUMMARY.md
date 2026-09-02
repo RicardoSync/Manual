@@ -51,3 +51,13 @@
 * [Paquetes estáticos (Simple Queue)](servicios-y-paquetes/paquetes-estaticos-simple-queue.md)
 * [Paquetes PPPoE (Profiles)](servicios-y-paquetes/paquetes-pppoe-profiles.md)
 * [Servicios Extra](servicios-y-paquetes/servicios-extra.md)
+
+***
+
+* [Inventario](inventario.md)
+
+## Finanzas
+
+* [Cobrar](finanzas/cobrar.md)
+* [Ventas](finanzas/ventas.md)
+* [Métodos de pago](finanzas/metodos-de-pago.md)
